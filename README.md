@@ -1,5 +1,5 @@
 
-# 🖼️ Image Classification API using ResNet18 and Flask
+# 🖼️ Image Classification API using Flask
 
 This is a simple Flask-based REST API for image classification using a pretrained ResNet18 model from PyTorch. The API accepts an input image and returns the top predicted object class based on the ImageNet dataset.
 
