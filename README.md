@@ -22,8 +22,8 @@ This is a simple Flask-based REST API for image classification using a pretraine
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/image-classification-api.git
-cd image-classification-api
+[git clone https://github.com/yourusername/image-classification-api.git](https://github.com/VinodkumarGorle/Object-Detection-ML-API.git)
+cd Object-Detection-ML-API
 ```
 
 ### 2. Create a Virtual Environment (Optional)
